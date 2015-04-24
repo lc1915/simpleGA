@@ -1,0 +1,17 @@
+E:\08毕设\simpleGA\simpleGA\obj\Debug\ResolveAssemblyReference.cache
+E:\08毕设\simpleGA\simpleGA\obj\Debug\simpleGA.Form1.resources
+E:\08毕设\simpleGA\simpleGA\obj\Debug\simpleGA.Properties.Resources.resources
+E:\08毕设\simpleGA\simpleGA\obj\Debug\simpleGA.csproj.GenerateResource.Cache
+E:\08毕设\simpleGA\simpleGA\bin\Debug\simpleGA.exe
+E:\08毕设\simpleGA\simpleGA\bin\Debug\simpleGA.pdb
+E:\08毕设\simpleGA\simpleGA\obj\Debug\simpleGA.exe
+E:\08毕设\simpleGA\simpleGA\obj\Debug\simpleGA.pdb
+C:\Users\asus\Desktop\simpleGA\simpleGA\obj\Debug\simpleGA.exe
+C:\Users\asus\Desktop\simpleGA\simpleGA\obj\Debug\simpleGA.pdb
+C:\Users\asus\Desktop\simpleGA\simpleGA\bin\Debug\simpleGA.exe
+C:\Users\asus\Desktop\simpleGA\simpleGA\bin\Debug\simpleGA.pdb
+C:\Users\asus\Desktop\simpleGA\simpleGA\obj\Debug\simpleGA.Form1.resources
+C:\Users\asus\Desktop\simpleGA\simpleGA\obj\Debug\simpleGA.Properties.Resources.resources
+C:\Users\asus\Desktop\simpleGA\simpleGA\obj\Debug\simpleGA.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\simpleGA\simpleGA\obj\Debug\simpleGA.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\simpleGA\simpleGA\obj\Debug\simpleGA.Form2.resources
